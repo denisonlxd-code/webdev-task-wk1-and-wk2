@@ -1,0 +1,46 @@
+body{
+    
+
+
+
+ main{
+    
+    background-color:black;
+    color:lightgray;
+    font-size:18px;
+    font-family: helvetica;
+    
+    h1 {
+    color:palevioletred;
+    font-size:30px;
+    font-family:"courier new"
+    }
+
+    p {color:chartreuse}
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+
+    ul{
+        list-style-type: square;
+        padding-top:20px;
+
+        li{padding-bottom:10px;}
+    }
+
+    a:link{color:cyan};
+    a:visited{color:blueviolet};
+    a:hover{color:hotpink}
+    }
+
+   
+
+
+ }
